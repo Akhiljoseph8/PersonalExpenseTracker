@@ -1,4 +1,4 @@
-# PersonalExpenseTracker
+# Personal Expense Tracker
 
  - Used technologies
    - Frontend: React.js
